@@ -1,0 +1,17 @@
+.head{
+    background-color: #F5F5FB;
+}
+.title{
+    font-size: 52px;
+    line-height: 57px;
+}
+.title-color{
+color: #f24628d2;
+}
+.sub-title{
+    font-size: 18px;
+    line-height: 28px;
+}
+.search{
+    border-color: orangered;
+}

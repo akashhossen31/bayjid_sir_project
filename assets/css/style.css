@@ -15,3 +15,12 @@ color: #f24628d2;
 .search{
     border-color: orangered;
 }
+.Featured{
+    background-color: #FBF0F3;
+}
+.card-title:hover{
+    text-decoration: underline;
+}
+.image{
+    margin-left: -6px;
+}
